@@ -31,7 +31,7 @@ app.run()
 #     c = int(request.args.get('c'))
 #     d = int(request.args.get('d'))
 
-#     arr = np.array([[a, b, c, d]])
+#     arr = np.array([[a, b, c, d ]])
 #     pred = model.predict(arr)
 #     return render_template('after.html', data=pred)
     
